@@ -1,3 +1,1 @@
-# LoL Tournament
 
-Description:
